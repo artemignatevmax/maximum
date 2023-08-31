@@ -3,3 +3,4 @@ def is_palindorm(string):
 
 print(is_palindorm('шрерш'))
 
+#Реализация палиндрома с помощью среза
